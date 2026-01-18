@@ -6,3 +6,4 @@ add takahashi
 
 add Nakamura2
 
+modify Nakamura at home
